@@ -1,0 +1,14 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="GRAA">
+    
+    <test name="GRAA">
+     
+ <classes>
+            <class name="intialize.Prerequsite"/>
+              
+                <class name="testscripts.SampleScript"/>
+                
+                
+       </classes>
+        </test>
+    </suite>

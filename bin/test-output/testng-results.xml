@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="GRAA" duration-ms="3774" started-at="2017-08-22T12:35:41Z" finished-at="2017-08-22T12:35:45Z">
+    <groups>
+    </groups>
+    <test name="GRAA" duration-ms="3774" started-at="2017-08-22T12:35:41Z" finished-at="2017-08-22T12:35:45Z">
+      <class name="intialize.Prerequsite">
+        <test-method status="PASS" signature="initialize(org.testng.ITestContext)[pri:0, instance:intialize.Prerequsite@343f4d3d]" name="initialize" is-config="true" duration-ms="238" started-at="2017-08-22T18:05:41Z" finished-at="2017-08-22T18:05:41Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[org.testng.TestRunner@2a25963b]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initialize -->
+        <test-method status="PASS" signature="ending()[pri:0, instance:intialize.Prerequsite@343f4d3d]" name="ending" is-config="true" duration-ms="4" started-at="2017-08-22T18:05:45Z" finished-at="2017-08-22T18:05:45Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ending -->
+      </class> <!-- intialize.Prerequsite -->
+      <class name="testscripts.SampleScript">
+        <test-method status="PASS" signature="sampleTestcase()[pri:0, instance:testscripts.SampleScript@4667ae56]" name="sampleTestcase" duration-ms="3763" started-at="2017-08-22T18:05:41Z" finished-at="2017-08-22T18:05:45Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- sampleTestcase -->
+      </class> <!-- testscripts.SampleScript -->
+    </test> <!-- GRAA -->
+  </suite> <!-- GRAA -->
+</testng-results>
